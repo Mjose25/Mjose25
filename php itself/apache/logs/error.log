@@ -1,0 +1,29 @@
+[Sun Apr 07 23:57:26.653780 2024] [ssl:warn] [pid 12624:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 07 23:57:26.730575 2024] [ssl:warn] [pid 12624:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 07 23:57:27.208622 2024] [mpm_winnt:notice] [pid 12624:tid 436] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Sun Apr 07 23:57:27.208622 2024] [mpm_winnt:notice] [pid 12624:tid 436] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sun Apr 07 23:57:27.208622 2024] [core:notice] [pid 12624:tid 436] AH00094: Command line: 'c:\\users\\best\\desktop\\kirika\\apache\\bin\\httpd.exe -d C:/Users/BEST/Desktop/KIRIKA/apache'
+[Sun Apr 07 23:57:27.214608 2024] [mpm_winnt:notice] [pid 12624:tid 436] AH00418: Parent: Created child process 11696
+[Sun Apr 07 23:57:27.769629 2024] [ssl:warn] [pid 11696:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 07 23:57:27.843421 2024] [ssl:warn] [pid 11696:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 07 23:57:27.882315 2024] [mpm_winnt:notice] [pid 11696:tid 428] AH00354: Child: Starting 150 worker threads.
+[Mon Apr 08 11:28:24.269163 2024] [ssl:warn] [pid 13384:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 08 11:28:24.377873 2024] [core:warn] [pid 13384:tid 424] AH00098: pid file C:/Users/BEST/Desktop/KIRIKA/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 08 11:28:24.383857 2024] [ssl:warn] [pid 13384:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 08 11:28:24.601277 2024] [mpm_winnt:notice] [pid 13384:tid 424] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Mon Apr 08 11:28:24.601277 2024] [mpm_winnt:notice] [pid 13384:tid 424] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Apr 08 11:28:24.601277 2024] [core:notice] [pid 13384:tid 424] AH00094: Command line: 'c:\\users\\best\\desktop\\kirika\\apache\\bin\\httpd.exe -d C:/Users/BEST/Desktop/KIRIKA/apache'
+[Mon Apr 08 11:28:24.612248 2024] [mpm_winnt:notice] [pid 13384:tid 424] AH00418: Parent: Created child process 9148
+[Mon Apr 08 11:28:25.630338 2024] [ssl:warn] [pid 9148:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 08 11:28:25.727497 2024] [ssl:warn] [pid 9148:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 08 11:28:25.786116 2024] [mpm_winnt:notice] [pid 9148:tid 440] AH00354: Child: Starting 150 worker threads.
+[Mon Apr 08 11:30:12.874350 2024] [ssl:warn] [pid 14008:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 08 11:30:12.975031 2024] [core:warn] [pid 14008:tid 424] AH00098: pid file C:/Users/BEST/Desktop/KIRIKA/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 08 11:30:12.979400 2024] [ssl:warn] [pid 14008:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 08 11:30:13.158070 2024] [mpm_winnt:notice] [pid 14008:tid 424] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30 configured -- resuming normal operations
+[Mon Apr 08 11:30:13.158070 2024] [mpm_winnt:notice] [pid 14008:tid 424] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Apr 08 11:30:13.158070 2024] [core:notice] [pid 14008:tid 424] AH00094: Command line: 'c:\\users\\best\\desktop\\kirika\\apache\\bin\\httpd.exe -d C:/Users/BEST/Desktop/KIRIKA/apache'
+[Mon Apr 08 11:30:13.164053 2024] [mpm_winnt:notice] [pid 14008:tid 424] AH00418: Parent: Created child process 10280
+[Mon Apr 08 11:30:14.136426 2024] [ssl:warn] [pid 10280:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 08 11:30:14.229177 2024] [ssl:warn] [pid 10280:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 08 11:30:14.305627 2024] [mpm_winnt:notice] [pid 10280:tid 440] AH00354: Child: Starting 150 worker threads.
